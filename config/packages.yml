@@ -78,8 +78,6 @@ drupal/acquia_purge:
       version: 1.x
       version_dev: 1.x-dev
 
-drupal/acsf: []
-
 drupal/acquia_search:
   version: 3.x
   version_dev: 3.x-dev
